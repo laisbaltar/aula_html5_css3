@@ -1,0 +1,5 @@
+1. começar sempre com:
+  !<DOCTYPE html>
+  <html lang="pt-br"> <-- indica a língua usada
+2. "utf-8" <-- padrão acentuação português
+3.
